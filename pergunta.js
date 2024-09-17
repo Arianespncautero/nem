@@ -54,7 +54,7 @@ criaCartao(
     
     criaCartao(
     'Matematica',
-    Há 7 passarinhos em um galho de árvore. Um menino atira em um deles, quantos passarinhos sobraram no galho?',
+    'Há 7 passarinhos em um galho de árvore. Um menino atira em um deles, quantos passarinhos sobraram no galho?',
     ' Nenhum, porque os outros seis fugiram assustados.');
     
     
