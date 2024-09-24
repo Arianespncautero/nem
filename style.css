@@ -51,6 +51,8 @@ footer{
     margin-top: 1rem;
     padding: 2rem;
     padding-top: 3rem;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .cartao_conteudo_resposta{
